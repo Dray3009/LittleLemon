@@ -3,7 +3,6 @@ import { View, StyleSheet, Image, Text } from 'react-native';
 import Button from "../components/Button";
 
 const WelcomeScreen = ({ navigation }) => {
-  // Add welcome screen code here.
   return (
      <View style={styles.MainContainer}>
        <View style={styles.Container}>
